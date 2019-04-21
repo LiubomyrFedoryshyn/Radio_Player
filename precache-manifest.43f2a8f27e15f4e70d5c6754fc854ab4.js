@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Radio_Player/static/js/runtime~main.75a956d0.js"
   },
   {
-    "revision": "4046e7dc2f610528a8c4",
-    "url": "/Radio_Player/static/js/main.4046e7dc.chunk.js"
+    "revision": "68bc5810ca052e1ecb3c",
+    "url": "/Radio_Player/static/js/main.68bc5810.chunk.js"
   },
   {
     "revision": "54cd7d8350019e873c58",
     "url": "/Radio_Player/static/js/1.54cd7d83.chunk.js"
   },
   {
-    "revision": "4046e7dc2f610528a8c4",
+    "revision": "68bc5810ca052e1ecb3c",
     "url": "/Radio_Player/static/css/main.3f27080b.chunk.css"
   },
   {
-    "revision": "68c9044eb19b6db4d89ce475b4b93830",
+    "revision": "eebe45f43ee9ab824921c64783470506",
     "url": "/Radio_Player/index.html"
   }
 ];
