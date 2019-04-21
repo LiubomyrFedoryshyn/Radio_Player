@@ -553,6 +553,7 @@
             .search {
                 input[type=text] {
                     border-bottom: 2px solid var(--red-color);
+                    border-radius: unset;
                     -webkit-transition: .3s;
                     -o-transition: .3s;
                     transition: .3s;
