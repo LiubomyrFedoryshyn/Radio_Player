@@ -2,7 +2,7 @@
   "name": "weather_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/LiubomyrFedoryshyn.github.io/Radio_Player.git",
+  "homepage": "https://liubomyrfedoryshyn.github.io/Radio_Player/",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.4",
     "axios": "^0.18.0",
