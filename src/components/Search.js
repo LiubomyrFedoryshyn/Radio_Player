@@ -18,7 +18,8 @@ class Search extends Component {
 
     stationHide = () => {
         this.setState({
-            showplayer : "hide"
+            showplayer : "hide",
+            streams : ''
         })
     }
 

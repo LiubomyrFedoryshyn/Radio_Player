@@ -27,7 +27,8 @@ showPlayer = () => {
 
 hidePlayer = () => {
   this.setState({
-    showplayer : 'hide'
+    showplayer : 'hide',
+    stream : ''
   })
 
 }
