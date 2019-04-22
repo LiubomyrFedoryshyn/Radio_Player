@@ -1,13 +1,13 @@
 {
-  "main.css": "/Radio_Player/static/css/main.3f27080b.chunk.css",
-  "main.js": "/Radio_Player/static/js/main.68bc5810.chunk.js",
-  "main.js.map": "/Radio_Player/static/js/main.68bc5810.chunk.js.map",
+  "main.css": "/Radio_Player/static/css/main.986f8718.chunk.css",
+  "main.js": "/Radio_Player/static/js/main.dadb9214.chunk.js",
+  "main.js.map": "/Radio_Player/static/js/main.dadb9214.chunk.js.map",
   "static/js/1.54cd7d83.chunk.js": "/Radio_Player/static/js/1.54cd7d83.chunk.js",
   "static/js/1.54cd7d83.chunk.js.map": "/Radio_Player/static/js/1.54cd7d83.chunk.js.map",
   "runtime~main.js": "/Radio_Player/static/js/runtime~main.75a956d0.js",
   "runtime~main.js.map": "/Radio_Player/static/js/runtime~main.75a956d0.js.map",
-  "static/css/main.3f27080b.chunk.css.map": "/Radio_Player/static/css/main.3f27080b.chunk.css.map",
+  "static/css/main.986f8718.chunk.css.map": "/Radio_Player/static/css/main.986f8718.chunk.css.map",
   "index.html": "/Radio_Player/index.html",
-  "precache-manifest.43f2a8f27e15f4e70d5c6754fc854ab4.js": "/Radio_Player/precache-manifest.43f2a8f27e15f4e70d5c6754fc854ab4.js",
+  "precache-manifest.c529057137b1bac7a626d7f15a80053e.js": "/Radio_Player/precache-manifest.c529057137b1bac7a626d7f15a80053e.js",
   "service-worker.js": "/Radio_Player/service-worker.js"
 }
