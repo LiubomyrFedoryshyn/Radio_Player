@@ -72,7 +72,6 @@ body h3:hover::before {
 
 .App {
   overflow: hidden;
-  max-width: 1420px;
 }
 
 .App .support {
@@ -123,6 +122,8 @@ body h3:hover::before {
       -ms-flex-align: center;
           align-items: center;
   z-index: 2;
+  margin: 0 auto;
+  max-width: 1440px;
   margin-top: 8%;
   padding: 0 10px;
 }
@@ -433,7 +434,7 @@ body h3:hover::before {
   .App .main_content_wrapper .stationList {
     height: 400px;
     overflow: auto;
-    border-bottom-right-radius: 28px;
+    border-bottom-right-radius: 4px;
     margin-bottom: 30px;
   }
   .App .main_content_wrapper .stationList div {
@@ -599,6 +600,7 @@ body h3:hover::before {
 
 .App .dark .main_content_wrapper .search input[type=text] {
   border-bottom: 2px solid var(--red-color);
+  border-radius: unset;
   -webkit-transition: .3s;
   transition: .3s;
 }
