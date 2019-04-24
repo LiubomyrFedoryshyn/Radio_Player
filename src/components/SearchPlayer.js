@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactAudioPlayer from 'react-audio-player';
 
 const SearchPlayer = ({station, streams, img}) => {
     
@@ -8,7 +9,11 @@ const SearchPlayer = ({station, streams, img}) => {
              <span className="name">{station.name}</span>
              <span className="country">{station.country}</span>
              <span className="website">{station.website}</span>
-             <audio controls="controls" src={streams} autoPlay={true} controls={true}></audio>
+             <ReactAudioPlayer
+                src={streams}
+                autoPlay
+                controls
+                />
         </div>
     )
 }
