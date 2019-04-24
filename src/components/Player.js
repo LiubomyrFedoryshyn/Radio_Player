@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactAudioPlayer from 'react-audio-player';
 import MdClose from 'react-ionicons/lib/MdClose'
 
 
@@ -13,16 +12,7 @@ const Player = ({stream, detail, img, addedShow, hidePlayer}) => {
             <span className="name">{detail.name}</span>
             <span className="country">{detail.country}</span>
             <span className="website">{detail.website}</span>
-            <ReactAudioPlayer
-                src={stream}
-                playIcon='<i class="far fa-play-circle"></i>'
-                autoPlay
-                controls
-                playerWidth="10rem"
-                iconSize="1.5rem"
-                fontSize="1rem"
-                sliderClass="invert-blue-grey"
-                />
+            <audio src={stream} autoPlay={true} controls={true}></audio>
         </div>
     )
 }
