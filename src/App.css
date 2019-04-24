@@ -178,6 +178,7 @@ body h3:hover::before {
   transition: .3s;
   height: 470px;
   min-width: 315.5px;
+  margin-bottom: 30px;
 }
 
 .App .main_content_wrapper .mainPlayer img {
