@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i");
 .react-audio-player {
   padding: 0.5rem;
-  width: 299px;
+  width: 300px;
   -webkit-transition: .3s;
   transition: .3s;
   border-radius: unset;
@@ -132,7 +132,7 @@ body h3:hover::before {
 .App .main_content_wrapper .stationList {
   z-index: 1;
   padding-bottom: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 
 .App .main_content_wrapper .stationList div {
@@ -946,6 +946,7 @@ body h3:hover::before {
   border: 1px solid var(--second-white-color);
   -webkit-box-shadow: 1px 8px 20px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 1px 8px 20px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 30px;
 }
 
 .App .white .main_content_wrapper .show span:hover {
@@ -969,26 +970,5 @@ body h3:hover::before {
   left: 0;
   -webkit-animation: crossScreen 15s linear infinite;
           animation: crossScreen 15s linear infinite;
-}
-
-div#mp3_player {
-  width: 500px;
-  height: 60px;
-  background: #000;
-  padding: 5px;
-  margin: 50px auto;
-}
-
-div#mp3_player > div > audio {
-  width: 500px;
-  background: #000;
-  float: left;
-}
-
-div#mp3_player > canvas {
-  width: 500px;
-  height: 30px;
-  background: #002D3C;
-  float: left;
 }
 /*# sourceMappingURL=App.css.map */
