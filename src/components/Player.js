@@ -12,7 +12,7 @@ const Player = ({stream, detail, img, addedShow, hidePlayer}) => {
             <span className="name">{detail.name}</span>
             <span className="country">{detail.country}</span>
             <span className="website">{detail.website}</span>
-            <audio src={stream} autoPlay={true} controls={true}></audio>
+            <audio  controls="controls" src={stream} autoPlay={true} controls={true}></audio>
         </div>
     )
 }

@@ -782,6 +782,7 @@ body h3:hover::before {
   border-bottom: 2px solid var(--main-purple);
   -webkit-transition: .3s;
   transition: .3s;
+  border-radius: unset;
 }
 
 .App .color .main_content_wrapper .search input[type=text]:focus {
@@ -918,6 +919,7 @@ body h3:hover::before {
   border-bottom: 2px solid var(--second-white-color);
   -webkit-transition: .3s;
   transition: .3s;
+  border-radius: unset;
 }
 
 .App .white .main_content_wrapper .search input[type=text]:focus {

@@ -688,6 +688,7 @@
                 -webkit-transition: .3s;
                 -o-transition: .3s;
                 transition: .3s;
+                border-radius: unset;
                 &:focus {
                     border-bottom: 2px solid var(--light-purple);
                 }
@@ -814,6 +815,7 @@
                 -webkit-transition: .3s;
                 -o-transition: .3s;
                 transition: .3s;
+                border-radius: unset;
                 &:focus {
                     border-bottom: 2px solid var(--light-second-color);
                 }
